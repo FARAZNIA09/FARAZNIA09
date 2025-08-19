@@ -1,4 +1,4 @@
-[![Masterhead](https://d2nzy1qhita6w.cloudfront.net/media/magefan_blog/data-analysis-skills-duties-responsibilities.jpeg)
+![Masterhead](https://d2nzy1qhita6w.cloudfront.net/media/magefan_blog/data-analysis-skills-duties-responsibilities.jpeg)
 <h1 align="center">Hi 👋, I'm Faraz Niyazi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Data Visualize" width="400" src="https://img.freepik.com/premium-vector/data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825.jpg">
