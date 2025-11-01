@@ -1,4 +1,5 @@
-![Preview]([https://user-images.githubusercontent.com/123456789/your-image-id.png](https://s44783.pcdn.co/in/wp-content/uploads/sites/3/2022/09/data-science.jpg.webp))
+![My Image](https://github.com/FARAZNIA09/FARAZNIA09/blob/main/image.png?raw=true)
+
 
 <h1 align="center">Hello 👋, I'm Faraz Niyazi</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
