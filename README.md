@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraznia09" alt="faraznia09" /></a> </p>
 
-- 🔭 I’m currently Working on **AI-Powered Smart Surveillance System for Local Businesses**
+- 🔭 I’m currently Working on **New Technology**
 
 - 🌱 I’m currently learning **Deep Learning, Natural Language Processing,YoloV8**
 
-- 👨‍💻 All of my projects are available at [https://faraz-niyazi-data-analys-xf91qxf.gamma.site/](https://faraz-niyazi-data-analys-xf91qxf.gamma.site/)
+- 👨‍💻 All of my projects are available at [https://github.com/FARAZNIA09](https://github.com/FARAZNIA09)
 
-- 💬 Ask me about **Scikit-Learn, Power BI, Python, Excel and SQL**
+- 💬 Ask me about **Power BI, Python, Excel, SQL, Data Modeling and Data Analysis**
 
 - 📫 How to reach me **farazniazi09@gmail.com**
 
