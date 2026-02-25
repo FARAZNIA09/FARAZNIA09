@@ -43,6 +43,6 @@ Python | SQL | Power BI | Excel | Pandas | NumPy | Scikit-learn
 ---
 
 ## 📫 Contact
-Email: your email  
-LinkedIn: your link
+Email: farazniazi09@gmail.com  
+LinkedIn: https://www.linkedin.com/in/faraz-niyazi-147614340/
 
