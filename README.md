@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Working on **New Technology**
 
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing,YoloV8**
+- 🌱 I’m currently learning **Apptitude and DSA with JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FARAZNIA09](https://github.com/FARAZNIA09)
 
