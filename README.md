@@ -22,8 +22,6 @@ I build end-to-end data analytics and machine learning solutions that convert ra
 
 ## 🚀 Featured Projects
 
-🚀 Featured Projects
-
 💰 AI-Driven Financial Anomaly Detection Dashboard
 
 Machine learning project that detects unusual financial transactions and presents risk patterns through an interactive Power BI dashboard.
