@@ -118,7 +118,7 @@ Tech: Python, Pandas, NumPy, Matplotlib
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, SQL, Java
+**Languages:** Python, Java, SQL
 **BI Tools:** Power BI, Excel  
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
 **Concepts:** Data Modeling, KPI Metrics, ML Classification  
