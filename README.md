@@ -22,69 +22,35 @@ I build end-to-end data analytics and machine learning solutions that convert ra
 
 ## 🚀 Featured Projects
 
-💰 AI-Driven Financial Anomaly Detection Dashboard
+**Enterprise Employee Management System** 
+- Developed a full-stack enterprise application for managing employees, departments, attendance, and payroll records. 
+- Implemented secure authentication and authorization using JWT and Spring Security. 
+- Built REST APIs for employee CRUD operations and role-based access control. 
+- Designed responsive React.js dashboards with real-time employee analytics. 
+- Integrated MySQL database using Spring Data JPA and Hibernate.  
 
-Machine learning project that detects unusual financial transactions and presents risk patterns through an interactive Power BI dashboard.
-
-Tech: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Power BI
-
----
-
-🤖 AI-Powered Business Intelligence Chatbot
-
-Text-to-SQL application that converts natural language questions into SQL queries and displays database results as tables and charts for easier business analysis.
-
-Tech: Python, NLP, FastAPI, SQL, Database Integration
+Tech: Java, Spring Boot, React.js, MySQL, JWT Authentication 
 
 ---
 
-🏬 Retail Sales Analysis Dashboard
+**AI-Powered Business Intelligence Chatbot** 
 
-End-to-end sales analytics project analyzing 50K+ retail transactions to identify revenue trends, product performance, customer behavior, and business insights.
+Text-to-SQL application that converts natural language questions into SQL queries and displays database results as tables and charts for easier business analysis. 
 
-Tech: SQL, Power BI, DAX
-
----
-
-🏏 IPL Live Match Dashboard
-
-Real-time cricket analytics dashboard that collects live match data through an API, processes the data using Python, stores it in SQL Server, and displays match KPIs and insights.
-
-Tech: Python, SQL Server, Power BI, DAX, REST API
+Tech: Python, NLP, FastAPI, SQL, Database Integration 
 
 ---
 
-✈️ BagIQ Reporting Dashboard
+**Smart Task & Project Management Platform**  
 
-Airport baggage operations reporting project developed during my internship at Vanderlande. Built reports and dashboards to monitor baggage discharge operations and support operational analysis.
+o Built a collaborative project management platform inspired by Jira and Trello. 
+o Developed modules for project creation, sprint planning, task assignment, and progress tracking. 
+o Implemented role-based access for Admin, Manager, and Team Members. 
+o Created interactive React.js dashboards for project monitoring and reporting. 
+o Designed scalable backend architecture with a microservice-ready Spring Boot structure. 
 
-Tech: SQL Server, SSRS, Report Builder
+Tech: Java, Spring Boot, React.js,  MongoDB, REST APIs 
 
----
-
-📊 Business Sales Dashboard
-
-Interactive business intelligence dashboard for analyzing sales, profit, orders, quantity, and business performance across products and regions.
-
-Tech: SQL, Power BI, DAX
-
----
-
-🛒 Walmart Sales Dashboard
-
-Interactive business intelligence dashboard tracking sales performance, revenue trends, product categories, and business KPIs.
-
-Tech: Power BI, DAX
-
----
-
-🍕 Pizza Sales SQL Analysis
-
-SQL-based business case study analyzing order data, revenue trends, popular pizzas, customer demand, and business performance using advanced SQL queries.
-
-Tech: MySQL, CTEs, Joins, Aggregate Functions, Window Functions
-
----
 
 🎓 Student Performance Prediction
 
@@ -92,44 +58,26 @@ Machine learning project that predicts student academic performance using data p
 
 Tech: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
----
-
-🦠 COVID-19 Data Analysis Dashboard
-
-Interactive dashboard for analyzing COVID-19 cases, deaths, recoveries, and regional trends to understand the progression and impact of the pandemic.
-
-Tech: Power BI, Data Visualization
-
----
-
-📈 Superstore Sales Dashboard
-
-Interactive Tableau dashboard analyzing sales, profit, customer segments, product categories, and regional performance to identify important business trends.
-
-Tech: Tableau, Data Visualization
-
----
-
-🛍️ Sales Data Analysis Project
-
-Data analysis project focused on cleaning, exploring, and analyzing sales data to identify revenue patterns, product performance, and actionable business insights.
-
-Tech: Python, Pandas, NumPy, Matplotlib
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, SQL   
-**BI Tools:** Power BI, Excel   
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
+**Languages:** Java, Python, SQL, JavaScript 
+**Backend Development:** Spring Boot, Spring MVC, REST APIs, Spring Data JPA, Hibernate, Maven, FastAPI 
+**Frontend Development:**  React.js, HTML5, CSS3, JavaScript ES6+, Bootstrap 
+**Databases:**  SQL Server, MySQL, MongoDB 
+**Data & Analytics:**  Power BI, DAX, SSRS, Pandas, NumPy, Matplotlib, Scikit-learn 
+**SQL Server Tools & Platforms:**  Git, GitHub, Postman, IntelliJ IDEA, VS Code, Jira, Jupyter Notebook, Swagger UI  
+**BI Tools:** Power BI, Excel  
 **Concepts:** Data Modeling, KPI Metrics, ML Classification  
 
 ---
 
 ## 📈 What I’m Currently Working On
 
-- Machine Learning Model Deployment
-- Natural Language Processing
-- FastAPI
+- Spring Boot
+- React.js
+- DSA with JAVA
+  
 
 ---
 
