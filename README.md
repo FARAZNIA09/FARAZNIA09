@@ -6,15 +6,6 @@
 🎓 B.Tech (CSE) Graduate | Software Engineer | Java Developer  
 📍 India  
 
----
-
-## 🔥 Core Expertise
-
-- Data Cleaning & Transformation (SQL, Python)
-- Business Intelligence Dashboards (Power BI, Excel)
-- Machine Learning & Anomaly Detection
-- KPI Development & Revenue Analysis
-- Data Modeling & Window Functions
 
 ---
 
@@ -50,7 +41,7 @@ o Designed scalable backend architecture with a microservice-ready Spring Boot s
 Tech: Java, Spring Boot, React.js,  MongoDB, REST APIs 
 
 
-🎓 Student Performance Prediction
+**Student Performance Prediction** 
 
 Machine learning project that predicts student academic performance using data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 
@@ -59,14 +50,14 @@ Tech: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## 🛠 Tech Stack
 
-**Languages:** Java, Python, SQL, JavaScript 
-**Backend Development:** Spring Boot, Spring MVC, REST APIs, Spring Data JPA, Hibernate, Maven, FastAPI 
-**Frontend Development:**  React.js, HTML5, CSS3, JavaScript ES6+, Bootstrap 
-**Databases:**  SQL Server, MySQL, MongoDB 
-**Data & Analytics:**  Power BI, DAX, SSRS, Pandas, NumPy, Matplotlib, Scikit-learn 
-**SQL Server Tools & Platforms:**  Git, GitHub, Postman, IntelliJ IDEA, VS Code, Jira, Jupyter Notebook, Swagger UI  
-**BI Tools:** Power BI, Excel  
-**Concepts:** Data Modeling, KPI Metrics, ML Classification  
+**Languages:** Java, Python, SQL, JavaScript  
+**Backend Development:** Spring Boot, Spring MVC, REST APIs, Spring Data JPA, Hibernate, Maven, FastAPI  
+**Frontend Development:**  React.js, HTML5, CSS3, JavaScript ES6+, Bootstrap  
+**Databases:**  SQL Server, MySQL, MongoDB  
+**Data & Analytics:**  Power BI, DAX, SSRS, Pandas, NumPy, Matplotlib, Scikit-learn  
+**SQL Server Tools & Platforms:**  Git, GitHub, Postman, IntelliJ IDEA, VS Code, Jira, Jupyter Notebook, Swagger UI   
+**BI Tools:** Power BI, Excel   
+**Concepts:** Data Modeling, KPI Metrics, ML Classification   
 
 ---
 
