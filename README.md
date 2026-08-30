@@ -85,4 +85,4 @@ Tech: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ---
 
-⭐ Always open to Data Analyst & Data related opportunities.
+⭐ Always open to Software Developer and Java related opportunities.
