@@ -3,10 +3,8 @@
 
 # Hi, I'm Faraz Niyazi 👋
 
-🎓 B.Tech (CSE) Graduate | Data Analyst | Aspiring Data Scientist  
+🎓 B.Tech (CSE) Graduate | Software Engineer | Java Developer  
 📍 India  
-
-I build end-to-end data analytics and machine learning solutions that convert raw data into business insights.
 
 ---
 
